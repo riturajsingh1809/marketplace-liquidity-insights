@@ -1,0 +1,601 @@
+Event_ID,Event_Date,Company_ID,Student_ID,Job_ID,Event_Type,Skill,Region,Experience_Years,Job_Openings,Application_Status,Processing_Time_Hours,Search_Time_Seconds,Consent_Status
+E00001,2025-01-01 00:00:00.000,Company_052,Student_0186,J0031,Student Applied,Tableau,West,1,10,Shortlisted,23.4,1.51,Yes
+E00002,2025-01-01 07:12:43.272,Company_015,Student_0060,J0122,Student Applied,Tableau,Central,2,1,Pending,5.0,4.84,Yes
+E00003,2025-01-01 14:25:26.544,Company_072,Student_0178,J0137,Company Posted,Sql,East,3,2,Applied,55.4,5.26,Yes
+E00004,2025-01-01 21:38:09.816,Company_061,Student_0028,J0051,Company Shortlisted,Tableau,West,5,7,Applied,50.8,0.96,Yes
+E00005,2025-01-02 04:50:53.088,Company_021,Student_0220,J0029,Company Shortlisted,Power Bi,South,0,10,Applied,24.5,3.65,No
+E00006,2025-01-02 12:03:36.361,Company_075,Student_0101,J0206,Student Applied,Python,Unknown,0,2,Applied,49.0,11.49,Yes
+E00007,2025-01-02 19:16:19.633,Company_075,Student_0041,J0040,Company Shortlisted,Excel,East,2,6,Pending,29.1,11.47,Yes
+E00008,2025-01-03 02:29:02.905,Company_024,Student_0228,J0041,Company Posted,Python,North,1,3,Shortlisted,54.7,4.55,Yes
+E00009,2025-01-03 09:41:46.177,Company_003,Student_0192,J0214,Company Posted,Tableau,North,3,4,Shortlisted,33.2,1.0,Yes
+E00010,2025-01-03 16:54:29.449,Company_022,Student_0155,J0011,Student Applied,Power Bi,North,1,8,Rejected,30.3,2.56,Yes
+E00011,2025-01-04 00:07:12.721,Company_053,Student_0246,J0151,Company Posted,Marketing,South,0,3,Applied,67.4,5.01,Yes
+E00012,2025-01-04 07:19:55.993,Company_002,Student_0191,J0001,Company Shortlisted,Tableau,North,1,10,Shortlisted,18.8,11.4,No
+E00013,2025-01-04 14:32:39.265,Company_030,Student_0145,J0046,Company Shortlisted,Power Bi,Central,0,6,Shortlisted,9.6,2.12,Yes
+E00014,2025-01-04 21:45:22.538,Company_038,Student_0201,J0101,Student Applied,Sql,West,1,1,Shortlisted,42.5,9.28,Yes
+E00015,2025-01-05 04:58:05.810,Company_002,Student_0161,J0149,Company Posted,Power Bi,South,2,7,Pending,69.8,1.75,Yes
+E00016,2025-01-05 12:10:49.082,Company_064,Student_0245,J0090,Company Posted,Sql,East,4,8,Rejected,27.8,11.78,Yes
+E00017,2025-01-05 19:23:32.354,Company_060,Student_0212,J0110,Student Applied,Finance,East,2,8,Applied,5.4,4.89,Yes
+E00018,2025-01-06 02:36:15.626,Company_021,Student_0205,J0164,Company Shortlisted,Excel,West,2,3,Rejected,25.1,9.42,Yes
+E00019,2025-01-06 09:48:58.898,Company_033,Student_0220,J0182,Student Applied,Data Analysis,South,4,10,Applied,36.9,4.44,Yes
+E00020,2025-01-06 17:01:42.170,Company_076,Student_0240,J0215,Company Posted,Power Bi,North,4,1,Applied,12.5,7.72,Yes
+E00021,2025-01-07 00:14:25.442,Company_058,Student_0157,J0057,Student Applied,Java,North,3,9,Applied,47.7,2.71,No
+E00022,2025-01-07 07:27:08.715,Company_022,Student_0141,J0001,Student Applied,Tableau,Central,3,6,Applied,71.8,2.18,Yes
+E00023,2025-01-07 14:39:51.987,Company_049,Student_0046,J0063,Company Shortlisted,Python,Central,2,9,Shortlisted,33.1,11.29,No
+E00024,2025-01-07 21:52:35.259,Company_059,Student_0035,J0182,Company Posted,Data Analysis,North,2,7,Shortlisted,26.2,11.05,Yes
+E00025,2025-01-08 05:05:18.531,Company_042,Student_0134,J0055,Student Applied,Python,East,0,1,Pending,29.4,10.71,Yes
+E00026,2025-01-08 12:18:01.803,Company_060,Student_0082,J0115,Student Applied,Finance,East,0,1,Shortlisted,9.2,7.69,Yes
+E00027,2025-01-08 19:30:45.075,Company_080,Student_0115,J0168,Company Shortlisted,Data Analysis,Central,3,6,Shortlisted,63.7,9.8,No
+E00028,2025-01-09 02:43:28.347,Company_015,Student_0197,J0143,Student Applied,Data Analysis,West,5,5,Applied,30.5,1.29,Yes
+E00029,2025-01-09 09:56:11.619,Company_062,Student_0047,J0149,Student Applied,Python,North,5,9,Applied,28.5,4.35,No
+E00030,2025-01-09 17:08:54.891,Company_062,Student_0153,J0175,Company Shortlisted,Sql,Central,3,2,Shortlisted,47.8,4.11,Yes
+E00031,2025-01-10 00:21:38.164,Company_047,Student_0194,J0201,Company Posted,Python,Central,0,8,Shortlisted,32.4,7.81,Yes
+E00032,2025-01-10 07:34:21.436,Company_062,Student_0010,J0053,Company Shortlisted,Sql,North,0,5,Rejected,47.0,4.59,No
+E00033,2025-01-10 14:47:04.708,Company_051,Student_0056,J0137,Student Applied,Finance,North,5,2,Applied,5.4,2.21,Yes
+E00034,2025-01-10 21:59:47.980,Company_055,Student_0030,J0202,Company Posted,Tableau,East,1,10,Applied,58.8,7.36,No
+E00035,2025-01-11 05:12:31.252,Company_064,Student_0242,J0180,Company Posted,Marketing,West,1,6,Shortlisted,67.8,9.87,Yes
+E00036,2025-01-11 12:25:14.524,Company_003,Student_0109,J0057,Student Applied,Sql,West,0,10,Applied,47.1,4.89,Yes
+E00037,2025-01-11 19:37:57.796,Company_051,Student_0005,J0117,Company Posted,Finance,North,1,8,Applied,68.8,2.02,Yes
+E00038,2025-01-12 02:50:41.068,Company_007,Student_0119,J0154,Student Applied,Java,South,4,4,Rejected,11.8,2.76,No
+E00039,2025-01-12 10:03:24.341,Company_021,Student_0248,J0169,Student Applied,Finance,Central,3,2,Applied,34.9,3.23,Yes
+E00040,2025-01-12 17:16:07.613,Company_073,Student_0033,J0035,Student Applied,Python,Central,3,5,Shortlisted,43.7,3.95,Yes
+E00041,2025-01-13 00:28:50.885,Company_039,Student_0118,J0063,Company Posted,Python,North,0,2,Applied,42.3,7.89,Yes
+E00042,2025-01-13 07:41:34.157,Company_018,Student_0065,J0025,Company Shortlisted,Marketing,South,2,2,Applied,29.5,7.41,Yes
+E00043,2025-01-13 14:54:17.429,Company_004,Student_0146,J0090,Company Shortlisted,Finance,East,5,6,Applied,25.0,8.5,Yes
+E00044,2025-01-13 22:07:00.701,Company_060,Student_0224,J0075,Company Shortlisted,Excel,North,0,10,Rejected,10.0,4.67,Yes
+E00045,2025-01-14 05:19:43.973,Company_014,Student_0239,J0038,Student Applied,Tableau,North,1,9,Applied,28.8,9.98,No
+E00046,2025-01-14 12:32:27.245,Company_009,Student_0177,J0130,Company Posted,Python,Central,5,4,Rejected,12.5,2.85,Yes
+E00047,2025-01-14 19:45:10.518,Company_053,Student_0011,J0135,Student Applied,Marketing,North,2,6,Applied,53.1,5.89,No
+E00048,2025-01-15 02:57:53.790,Company_002,Student_0085,J0210,Company Posted,Tableau,North,1,7,Rejected,15.8,9.71,No
+E00049,2025-01-15 10:10:37.062,Company_060,Student_0026,J0219,Company Posted,Finance,North,4,6,Applied,5.2,2.57,Yes
+E00050,2025-01-15 17:23:20.334,Company_071,Student_0063,J0162,Company Posted,Finance,North,1,8,Rejected,40.2,1.76,Yes
+E00051,2025-01-16 00:36:03.606,Company_044,Student_0217,J0091,Student Applied,Data Analysis,East,4,4,Shortlisted,43.3,10.66,Yes
+E00052,2025-01-16 07:48:46.878,Company_008,Student_0086,J0017,Company Shortlisted,Marketing,East,5,1,Pending,62.9,4.44,No
+E00053,2025-01-16 15:01:30.150,Company_047,Student_0059,J0128,Student Applied,Python,North,4,7,Applied,42.0,8.36,Yes
+E00054,2025-01-16 22:14:13.422,Company_035,Student_0027,J0171,Student Applied,Excel,Central,5,3,Applied,25.5,0.79,Yes
+E00055,2025-01-17 05:26:56.694,Company_078,Student_0177,J0187,Company Posted,Finance,East,5,6,Applied,58.0,8.44,No
+E00056,2025-01-17 12:39:39.967,Company_036,Student_0205,J0108,Company Shortlisted,Excel,East,5,2,Rejected,35.4,4.14,No
+E00057,2025-01-17 19:52:23.239,Company_050,Student_0161,J0179,Student Applied,Finance,East,5,9,Shortlisted,6.6,1.14,Yes
+E00058,2025-01-18 03:05:06.511,Company_004,Student_0098,J0182,Student Applied,Python,Central,5,1,Rejected,41.2,7.51,Yes
+E00059,2025-01-18 10:17:49.783,Company_002,Student_0105,J0152,Company Posted,Tableau,Central,1,6,Applied,65.5,3.27,Yes
+E00060,2025-01-18 17:30:33.055,Company_006,Student_0099,J0025,Company Shortlisted,Power Bi,North,5,6,Applied,29.1,4.95,No
+E00061,2025-01-19 00:43:16.327,Company_054,Student_0129,J0199,Student Applied,Tableau,West,1,5,Applied,22.0,1.43,No
+E00062,2025-01-19 07:55:59.599,Company_004,Student_0149,J0180,Company Posted,Finance,East,5,5,Pending,11.2,2.19,Yes
+E00063,2025-01-19 15:08:42.871,Company_054,Student_0240,J0198,Company Posted,Power Bi,West,4,1,Rejected,11.8,3.93,No
+E00064,2025-01-19 22:21:26.144,Company_063,Student_0055,J0088,Student Applied,Power Bi,Central,5,10,Pending,31.7,1.53,Yes
+E00065,2025-01-20 05:34:09.416,Company_018,Student_0006,J0161,Student Applied,Excel,Central,2,5,Applied,43.3,10.97,No
+E00066,2025-01-20 12:46:52.688,Company_044,Student_0220,J0177,Company Posted,Marketing,Central,5,2,Shortlisted,6.7,0.57,Yes
+E00067,2025-01-20 19:59:35.960,Company_034,Student_0209,J0029,Company Shortlisted,Excel,West,5,7,Rejected,67.7,6.06,Yes
+E00068,2025-01-21 03:12:19.232,Company_074,Student_0197,J0063,Company Posted,Excel,Central,4,3,Applied,54.6,1.92,Yes
+E00069,2025-01-21 10:25:02.504,Company_062,Student_0095,J0150,Student Applied,Tableau,North,3,4,Rejected,42.7,4.04,Yes
+E00070,2025-01-21 17:37:45.776,Company_014,Student_0133,J0154,Company Shortlisted,Tableau,Central,4,3,Pending,59.8,11.15,Yes
+E00071,2025-01-22 00:50:29.048,Company_048,Student_0102,J0156,Student Applied,Java,South,2,3,Pending,6.7,2.36,Yes
+E00072,2025-01-22 08:03:12.321,Company_015,Student_0003,J0114,Student Applied,Finance,West,3,4,Rejected,34.9,11.61,No
+E00073,2025-01-22 15:15:55.593,Company_072,Student_0181,J0213,Student Applied,Java,South,0,5,Applied,45.7,2.87,No
+E00074,2025-01-22 22:28:38.865,Company_078,Student_0023,J0049,Company Posted,Python,Central,0,1,Applied,59.8,9.03,Yes
+E00075,2025-01-23 05:41:22.137,Company_062,Student_0229,J0199,Company Shortlisted,Finance,North,2,4,Pending,56.6,6.79,Yes
+E00076,2025-01-23 12:54:05.409,Company_040,Student_0053,J0081,Student Applied,Finance,East,4,8,Applied,20.7,10.67,Yes
+E00077,2025-01-23 20:06:48.681,Company_080,Student_0165,J0084,Company Shortlisted,Data Analysis,Central,1,10,Rejected,67.8,6.87,Yes
+E00078,2025-01-24 03:19:31.953,Company_053,Student_0202,J0105,Company Posted,Data Analysis,Unknown,2,7,Rejected,9.8,6.65,Yes
+E00079,2025-01-24 10:32:15.225,Company_024,Student_0202,J0177,Company Posted,Sql,West,3,9,Shortlisted,63.1,2.75,Yes
+E00080,2025-01-24 17:44:58.497,Company_026,Student_0083,J0148,Company Posted,Sql,South,3,5,Pending,69.9,2.41,Yes
+E00081,2025-01-25 00:57:41.770,Company_060,Student_0145,J0118,Student Applied,Excel,South,5,10,Pending,13.6,11.04,No
+E00082,2025-01-25 08:10:25.042,Company_041,Student_0085,J0086,Student Applied,Python,South,0,4,Applied,52.3,4.27,Yes
+E00083,2025-01-25 15:23:08.314,Company_029,Student_0078,J0220,Company Shortlisted,Power Bi,West,3,8,Applied,3.9,4.78,No
+E00084,2025-01-25 22:35:51.586,Company_015,Student_0201,J0063,Student Applied,Power Bi,North,2,9,Shortlisted,29.8,9.24,No
+E00085,2025-01-26 05:48:34.858,Company_045,Student_0110,J0189,Company Shortlisted,Data Analysis,West,3,7,Applied,37.7,4.4,Yes
+E00086,2025-01-26 13:01:18.130,Company_065,Student_0001,J0104,Company Posted,Data Analysis,South,2,7,Applied,42.2,11.45,Yes
+E00087,2025-01-26 20:14:01.402,Company_071,Student_0051,J0049,Company Shortlisted,Data Analysis,Central,1,5,Rejected,67.5,8.99,Yes
+E00088,2025-01-27 03:26:44.674,Company_009,Student_0173,J0071,Company Shortlisted,Marketing,East,5,4,Pending,48.7,7.37,Yes
+E00089,2025-01-27 10:39:27.947,Company_001,Student_0205,J0001,Company Shortlisted,Sql,West,0,10,Applied,35.2,10.63,Yes
+E00090,2025-01-27 17:52:11.219,Company_008,Student_0004,J0141,Company Shortlisted,Tableau,West,3,1,Applied,58.5,1.07,Yes
+E00091,2025-01-28 01:04:54.491,Company_063,Student_0190,J0215,Student Applied,Power Bi,North,2,10,Pending,68.5,3.46,Yes
+E00092,2025-01-28 08:17:37.763,Company_011,Student_0193,J0179,Student Applied,Finance,North,4,10,Applied,2.6,5.85,Yes
+E00093,2025-01-28 15:30:21.035,Company_008,Student_0113,J0123,Company Posted,Sql,West,0,7,Applied,70.8,3.11,Yes
+E00094,2025-01-28 22:43:04.307,Company_035,Student_0232,J0184,Company Posted,Java,South,1,1,Applied,7.1,9.05,No
+E00095,2025-01-29 05:55:47.579,Company_035,Student_0032,J0211,Company Shortlisted,Tableau,East,2,1,Shortlisted,58.8,11.07,Yes
+E00096,2025-01-29 13:08:30.851,Company_033,Student_0034,J0062,Student Applied,Sql,North,5,5,Applied,20.9,5.37,No
+E00097,2025-01-29 20:21:14.124,Company_005,Student_0092,J0032,Company Shortlisted,Python,South,5,9,Pending,10.4,4.43,No
+E00098,2025-01-30 03:33:57.396,Company_041,Student_0095,J0158,Student Applied,Finance,Central,1,6,Shortlisted,32.2,11.56,Yes
+E00099,2025-01-30 10:46:40.668,Company_028,Student_0072,J0029,Company Posted,Sql,North,1,3,Shortlisted,46.7,5.62,No
+E00100,2025-01-30 17:59:23.940,Company_007,Student_0039,J0049,Company Posted,Marketing,South,5,3,Applied,28.0,6.12,Yes
+E00101,2025-01-31 01:12:07.212,Company_073,Student_0154,J0173,Student Applied,Data Analysis,South,3,7,Shortlisted,4.9,4.54,Yes
+E00102,2025-01-31 08:24:50.484,Company_072,Student_0250,J0030,Student Applied,Data Analysis,East,3,6,Rejected,43.6,10.96,Yes
+E00103,2025-01-31 15:37:33.756,Company_012,Student_0162,J0144,Company Posted,Finance,East,2,9,Rejected,65.1,7.04,Yes
+E00104,2025-01-31 22:50:17.028,Company_034,Student_0182,J0168,Student Applied,Data Analysis,Central,4,6,Rejected,28.2,9.27,Yes
+E00105,2025-02-01 06:03:00.300,Company_033,Student_0118,J0019,Company Posted,Sql,South,2,5,Shortlisted,16.4,9.84,Yes
+E00106,2025-02-01 13:15:43.573,Company_048,Student_0003,J0018,Student Applied,Java,South,4,10,Pending,32.4,4.43,Yes
+E00107,2025-02-01 20:28:26.845,Company_023,Student_0123,J0001,Company Posted,Power Bi,East,1,7,Rejected,4.4,5.49,No
+E00108,2025-02-02 03:41:10.117,Company_062,Student_0050,J0078,Company Shortlisted,Unknown,North,0,1,Rejected,59.3,10.26,Yes
+E00109,2025-02-02 10:53:53.389,Company_037,Student_0012,J0115,Company Posted,Tableau,North,2,7,Applied,59.7,4.68,No
+E00110,2025-02-02 18:06:36.661,Company_044,Student_0193,J0175,Student Applied,Excel,West,2,3,Applied,42.7,9.63,Yes
+E00111,2025-02-03 01:19:19.933,Company_035,Student_0054,J0194,Company Posted,Python,East,4,9,Applied,35.4,11.32,Yes
+E00112,2025-02-03 08:32:03.205,Company_065,Student_0236,J0220,Company Posted,Finance,West,1,6,Rejected,57.8,7.67,Yes
+E00113,2025-02-03 15:44:46.477,Company_047,Student_0133,J0113,Student Applied,Tableau,East,1,9,Applied,40.4,9.03,No
+E00114,2025-02-03 22:57:29.750,Company_078,Student_0222,J0114,Student Applied,Excel,Central,4,5,Applied,59.6,9.76,Yes
+E00115,2025-02-04 06:10:13.022,Company_003,Student_0222,J0166,Student Applied,Marketing,South,1,7,Pending,45.8,10.22,No
+E00116,2025-02-04 13:22:56.294,Company_001,Student_0057,J0179,Company Posted,Marketing,Central,5,4,Pending,56.7,5.04,No
+E00117,2025-02-04 20:35:39.566,Company_005,Student_0145,J0063,Student Applied,Python,East,3,7,Pending,43.5,1.09,Yes
+E00118,2025-02-05 03:48:22.838,Company_014,Student_0112,J0132,Company Shortlisted,Data Analysis,South,5,1,Applied,30.4,5.12,Yes
+E00119,2025-02-05 11:01:06.110,Company_027,Student_0047,J0129,Company Shortlisted,Sql,North,0,7,Rejected,69.0,8.25,Yes
+E00120,2025-02-05 18:13:49.382,Company_009,Student_0151,J0008,Company Posted,Tableau,North,2,8,Applied,39.4,5.68,No
+E00121,2025-02-06 01:26:32.654,Company_079,Student_0207,J0157,Student Applied,Tableau,West,0,5,Applied,44.0,9.11,Yes
+E00122,2025-02-06 08:39:15.927,Company_015,Student_0229,J0055,Company Posted,Finance,East,2,2,Applied,16.7,4.61,Yes
+E00123,2025-02-06 15:51:59.199,Company_042,Student_0085,J0103,Company Posted,Finance,East,3,5,Applied,45.4,7.8,Yes
+E00124,2025-02-06 23:04:42.471,Company_077,Student_0142,J0131,Company Shortlisted,Marketing,North,1,6,Shortlisted,41.6,2.64,Yes
+E00125,2025-02-07 06:17:25.743,Company_051,Student_0066,J0032,Company Posted,Marketing,Central,5,2,Rejected,14.1,9.12,Yes
+E00126,2025-02-07 13:30:09.015,Company_063,Student_0075,J0010,Student Applied,Java,South,4,6,Applied,5.2,6.78,Yes
+E00127,2025-02-07 20:42:52.287,Company_052,Student_0179,J0202,Student Applied,Java,Central,5,6,Rejected,43.9,2.85,No
+E00128,2025-02-08 03:55:35.559,Company_004,Student_0103,J0211,Student Applied,Data Analysis,Central,3,1,Shortlisted,55.2,3.86,Yes
+E00129,2025-02-08 11:08:18.831,Company_023,Student_0166,J0110,Student Applied,Java,North,0,1,Applied,38.2,9.11,Yes
+E00130,2025-02-08 18:21:02.104,Company_015,Student_0192,J0162,Company Posted,Sql,North,4,10,Shortlisted,17.1,6.05,No
+E00131,2025-02-09 01:33:45.376,Company_043,Student_0226,J0124,Company Posted,Sql,North,1,3,Applied,48.3,2.98,Yes
+E00132,2025-02-09 08:46:28.648,Company_029,Student_0038,J0087,Student Applied,Tableau,West,3,10,Shortlisted,6.7,11.62,Yes
+E00133,2025-02-09 15:59:11.920,Company_036,Student_0050,J0055,Company Posted,Power Bi,Central,4,10,Shortlisted,32.4,8.72,No
+E00134,2025-02-09 23:11:55.192,Company_013,Student_0098,J0220,Student Applied,Sql,East,3,3,Applied,12.6,11.51,Yes
+E00135,2025-02-10 06:24:38.464,Company_032,Student_0082,J0032,Company Posted,Excel,South,3,4,Applied,14.1,5.41,Yes
+E00136,2025-02-10 13:37:21.736,Company_071,Student_0030,J0178,Company Posted,Marketing,West,1,2,Pending,15.4,5.96,Yes
+E00137,2025-02-10 20:50:05.008,Company_059,Student_0079,J0135,Student Applied,Finance,East,2,9,Pending,28.5,10.83,Yes
+E00138,2025-02-11 04:02:48.280,Company_028,Student_0091,J0093,Company Posted,Java,Unknown,4,10,Applied,4.6,6.54,Yes
+E00139,2025-02-11 11:15:31.553,Company_066,Student_0179,J0008,Student Applied,Tableau,North,1,7,Rejected,29.2,8.63,Yes
+E00140,2025-02-11 18:28:14.825,Company_042,Student_0191,J0065,Student Applied,Python,Central,3,7,Shortlisted,37.3,3.4,Yes
+E00141,2025-02-12 01:40:58.097,Company_045,Student_0226,J0057,Company Shortlisted,Finance,South,1,6,Pending,35.3,5.64,Yes
+E00142,2025-02-12 08:53:41.369,Company_062,Student_0052,J0067,Company Posted,Excel,West,2,3,Rejected,28.2,1.92,Yes
+E00143,2025-02-12 16:06:24.641,Company_057,Student_0249,J0216,Company Posted,Java,West,5,6,Shortlisted,60.6,2.87,No
+E00144,2025-02-12 23:19:07.913,Company_006,Student_0166,J0215,Company Posted,Excel,South,4,8,Shortlisted,11.3,0.51,No
+E00145,2025-02-13 06:31:51.185,Company_028,Student_0225,J0187,Student Applied,Marketing,East,2,8,Pending,36.9,0.95,Yes
+E00146,2025-02-13 13:44:34.457,Company_028,Student_0216,J0072,Student Applied,Marketing,East,0,9,Applied,5.4,11.74,Yes
+E00147,2025-02-13 20:57:17.730,Company_044,Student_0079,J0054,Company Posted,Data Analysis,West,4,1,Applied,6.1,3.29,Yes
+E00148,2025-02-14 04:10:01.002,Company_030,Student_0030,J0067,Company Shortlisted,Tableau,West,2,1,Applied,41.7,8.13,No
+E00149,2025-02-14 11:22:44.274,Company_062,Student_0247,J0051,Company Posted,Finance,North,3,3,Rejected,41.2,10.15,Yes
+E00150,2025-02-14 18:35:27.546,Company_075,Student_0106,J0097,Student Applied,Finance,East,4,3,Rejected,63.3,6.83,No
+E00151,2025-02-15 01:48:10.818,Company_062,Student_0051,J0092,Student Applied,Python,South,4,10,Applied,40.6,2.26,Yes
+E00152,2025-02-15 09:00:54.090,Company_001,Student_0081,J0008,Company Shortlisted,Tableau,East,1,8,Shortlisted,69.1,8.87,Yes
+E00153,2025-02-15 16:13:37.362,Company_027,Student_0133,J0162,Student Applied,Excel,North,3,10,Shortlisted,4.5,7.4,Yes
+E00154,2025-02-15 23:26:20.634,Company_062,Student_0029,J0035,Company Shortlisted,Python,West,0,1,Applied,8.0,8.91,Yes
+E00155,2025-02-16 06:39:03.907,Company_077,Student_0132,J0096,Company Posted,Power Bi,West,5,2,Pending,4.1,9.35,Yes
+E00156,2025-02-16 13:51:47.179,Company_003,Student_0138,J0088,Company Shortlisted,Finance,Unknown,2,2,Applied,14.2,11.72,Yes
+E00157,2025-02-16 21:04:30.451,Company_070,Student_0184,J0078,Company Posted,Excel,South,1,3,Applied,39.4,7.1,Yes
+E00158,2025-02-17 04:17:13.723,Company_072,Student_0145,J0032,Company Shortlisted,Sql,West,2,6,Shortlisted,46.8,4.43,Yes
+E00159,2025-02-17 11:29:56.995,Company_027,Student_0074,J0120,Student Applied,Data Analysis,Central,0,1,Rejected,4.2,7.96,Yes
+E00160,2025-02-17 18:42:40.267,Company_009,Student_0017,J0046,Company Shortlisted,Tableau,West,0,2,Applied,68.2,1.29,Yes
+E00161,2025-02-18 01:55:23.539,Company_062,Student_0084,J0144,Student Applied,Marketing,Central,4,1,Shortlisted,60.8,10.82,Yes
+E00162,2025-02-18 09:08:06.811,Company_037,Student_0216,J0196,Student Applied,Sql,North,0,5,Shortlisted,22.1,1.87,Yes
+E00163,2025-02-18 16:20:50.083,Company_051,Student_0069,J0165,Student Applied,Data Analysis,North,2,7,Pending,6.5,4.27,Yes
+E00164,2025-02-18 23:33:33.356,Company_044,Student_0034,J0182,Student Applied,Data Analysis,West,3,8,Applied,13.1,9.88,No
+E00165,2025-02-19 06:46:16.628,Company_024,Student_0006,J0213,Company Posted,Power Bi,East,3,10,Shortlisted,10.0,7.37,Yes
+E00166,2025-02-19 13:58:59.900,Company_079,Student_0053,J0142,Company Posted,Power Bi,Central,4,1,Applied,9.8,5.03,No
+E00167,2025-02-19 21:11:43.172,Company_059,Student_0194,J0055,Company Posted,Java,South,5,7,Pending,37.8,5.94,Yes
+E00168,2025-02-20 04:24:26.444,Company_032,Student_0205,J0176,Company Posted,Java,West,2,5,Rejected,18.5,10.33,Yes
+E00169,2025-02-20 11:37:09.716,Company_052,Student_0126,J0210,Company Shortlisted,Python,South,2,10,Pending,26.4,4.41,No
+E00170,2025-02-20 18:49:52.988,Company_062,Student_0235,J0007,Company Posted,Data Analysis,West,0,1,Applied,71.3,10.5,Yes
+E00171,2025-02-21 02:02:36.260,Company_058,Student_0043,J0074,Company Shortlisted,Sql,East,2,3,Pending,49.6,1.51,Yes
+E00172,2025-02-21 09:15:19.533,Company_052,Student_0240,J0007,Company Posted,Tableau,East,1,7,Shortlisted,68.4,9.43,No
+E00173,2025-02-21 16:28:02.805,Company_012,Student_0203,J0161,Company Posted,Data Analysis,East,5,10,Applied,11.1,10.25,Yes
+E00174,2025-02-21 23:40:46.077,Company_039,Student_0115,J0151,Company Shortlisted,Power Bi,East,0,1,Applied,28.1,2.59,Yes
+E00175,2025-02-22 06:53:29.349,Company_002,Student_0111,J0085,Student Applied,Excel,North,1,7,Applied,40.4,5.45,No
+E00176,2025-02-22 14:06:12.621,Company_003,Student_0249,J0147,Student Applied,Marketing,North,4,5,Rejected,6.4,2.4,Yes
+E00177,2025-02-22 21:18:55.893,Company_056,Student_0151,J0112,Student Applied,Java,Central,3,1,Shortlisted,1.3,8.63,Yes
+E00178,2025-02-23 04:31:39.165,Company_059,Student_0183,J0125,Student Applied,Finance,South,4,1,Applied,48.6,6.66,Yes
+E00179,2025-02-23 11:44:22.437,Company_002,Student_0080,J0147,Company Posted,Excel,West,3,1,Shortlisted,46.6,7.81,Yes
+E00180,2025-02-23 18:57:05.710,Company_002,Student_0095,J0036,Company Shortlisted,Tableau,West,4,9,Applied,30.2,2.76,Yes
+E00181,2025-02-24 02:09:48.982,Company_054,Student_0203,J0029,Company Shortlisted,Power Bi,North,2,3,Shortlisted,35.8,2.94,Yes
+E00182,2025-02-24 09:22:32.254,Company_001,Student_0118,J0188,Student Applied,Power Bi,West,1,5,Applied,30.5,0.98,Yes
+E00183,2025-02-24 16:35:15.526,Company_019,Student_0144,J0082,Company Posted,Power Bi,North,3,10,Rejected,2.7,4.2,Yes
+E00184,2025-02-24 23:47:58.798,Company_002,Student_0008,J0002,Student Applied,Finance,Central,0,9,Rejected,24.8,6.94,Yes
+E00185,2025-02-25 07:00:42.070,Company_053,Student_0132,J0129,Company Posted,Java,South,1,6,Shortlisted,13.6,10.37,Yes
+E00186,2025-02-25 14:13:25.342,Company_044,Student_0104,J0047,Company Posted,Excel,Central,0,9,Applied,8.0,8.17,Yes
+E00187,2025-02-25 21:26:08.614,Company_032,Student_0132,J0197,Company Posted,Tableau,East,1,8,Applied,68.9,5.51,Yes
+E00188,2025-02-26 04:38:51.886,Company_070,Student_0184,J0148,Student Applied,Java,East,1,8,Rejected,43.6,11.46,Yes
+E00189,2025-02-26 11:51:35.159,Company_032,Student_0025,J0011,Company Shortlisted,Tableau,East,4,1,Applied,52.7,8.77,Yes
+E00190,2025-02-26 19:04:18.431,Company_068,Student_0195,J0130,Student Applied,Java,Central,3,9,Applied,23.4,11.2,No
+E00191,2025-02-27 02:17:01.703,Company_055,Student_0096,J0195,Student Applied,Finance,West,3,6,Applied,28.9,6.57,Yes
+E00192,2025-02-27 09:29:44.975,Company_075,Student_0195,J0215,Student Applied,Marketing,South,1,9,Shortlisted,17.8,3.48,Yes
+E00193,2025-02-27 16:42:28.247,Company_056,Student_0155,J0119,Student Applied,Tableau,East,2,3,Shortlisted,7.9,1.11,Yes
+E00194,2025-02-27 23:55:11.519,Company_017,Student_0093,J0140,Student Applied,Java,East,2,3,Rejected,13.7,8.85,Yes
+E00195,2025-02-28 07:07:54.791,Company_038,Student_0160,J0020,Company Shortlisted,Power Bi,East,0,6,Applied,57.6,1.89,No
+E00196,2025-02-28 14:20:38.063,Company_024,Student_0178,J0005,Company Posted,Data Analysis,South,0,9,Applied,49.1,3.98,No
+E00197,2025-02-28 21:33:21.336,Company_069,Student_0061,J0037,Company Shortlisted,Power Bi,East,4,7,Rejected,39.8,6.62,Yes
+E00198,2025-03-01 04:46:04.608,Company_070,Student_0122,J0166,Student Applied,Python,South,1,3,Rejected,34.7,6.99,Yes
+E00199,2025-03-01 11:58:47.880,Company_011,Student_0051,J0137,Student Applied,Marketing,East,0,3,Applied,35.4,7.41,Yes
+E00200,2025-03-01 19:11:31.152,Company_016,Student_0147,J0053,Student Applied,Marketing,Central,0,2,Shortlisted,6.2,2.41,No
+E00201,2025-03-02 02:24:14.424,Company_073,Student_0021,J0172,Student Applied,Power Bi,Central,5,9,Applied,20.9,4.87,Yes
+E00202,2025-03-02 09:36:57.696,Company_059,Student_0005,J0099,Company Shortlisted,Excel,South,1,3,Pending,25.8,7.6,Yes
+E00203,2025-03-02 16:49:40.968,Company_070,Student_0210,J0086,Company Shortlisted,Finance,Unknown,4,5,Applied,56.6,11.65,Yes
+E00204,2025-03-03 00:02:24.240,Company_080,Student_0092,J0108,Student Applied,Tableau,South,0,9,Pending,71.5,8.87,Yes
+E00205,2025-03-03 07:15:07.513,Company_003,Student_0170,J0024,Company Posted,Marketing,Central,4,8,Rejected,18.1,11.11,No
+E00206,2025-03-03 14:27:50.785,Company_020,Student_0061,J0081,Student Applied,Power Bi,Central,3,2,Shortlisted,63.1,9.27,Yes
+E00207,2025-03-03 21:40:34.057,Company_059,Student_0022,J0202,Company Shortlisted,Power Bi,South,4,3,Applied,60.0,7.3,Yes
+E00208,2025-03-04 04:53:17.329,Company_036,Student_0149,J0158,Company Posted,Finance,West,2,2,Shortlisted,17.0,2.71,Yes
+E00209,2025-03-04 12:06:00.601,Company_019,Student_0070,J0120,Student Applied,Finance,Central,2,8,Applied,29.4,8.17,Yes
+E00210,2025-03-04 19:18:43.873,Company_067,Student_0001,J0059,Student Applied,Sql,East,4,6,Applied,30.1,7.67,No
+E00211,2025-03-05 02:31:27.145,Company_019,Student_0133,J0215,Student Applied,Sql,West,2,6,Shortlisted,70.5,7.43,Yes
+E00212,2025-03-05 09:44:10.417,Company_020,Student_0233,J0128,Company Posted,Unknown,North,3,9,Pending,13.8,6.13,Yes
+E00213,2025-03-05 16:56:53.689,Company_071,Student_0012,J0209,Student Applied,Excel,West,1,8,Shortlisted,57.7,6.58,Yes
+E00214,2025-03-06 00:09:36.962,Company_052,Student_0090,J0114,Company Shortlisted,Python,North,2,4,Rejected,24.7,4.35,No
+E00215,2025-03-06 07:22:20.234,Company_033,Student_0046,J0115,Company Posted,Excel,North,2,4,Applied,52.9,6.47,Yes
+E00216,2025-03-06 14:35:03.506,Company_040,Student_0034,J0209,Company Posted,Java,Central,4,9,Applied,30.8,2.77,Yes
+E00217,2025-03-06 21:47:46.778,Company_039,Student_0177,J0014,Company Shortlisted,Finance,Central,3,1,Applied,42.1,9.76,Yes
+E00218,2025-03-07 05:00:30.050,Company_001,Student_0078,J0009,Company Posted,Java,East,1,2,Shortlisted,60.1,2.64,No
+E00219,2025-03-07 12:13:13.322,Company_011,Student_0218,J0040,Company Shortlisted,Tableau,West,4,2,Pending,58.1,1.48,No
+E00220,2025-03-07 19:25:56.594,Company_057,Student_0045,J0194,Student Applied,Power Bi,North,4,6,Rejected,62.5,5.52,Yes
+E00221,2025-03-08 02:38:39.866,Company_050,Student_0155,J0025,Company Posted,Unknown,Central,5,4,Applied,5.2,8.07,Yes
+E00222,2025-03-08 09:51:23.139,Company_023,Student_0073,J0103,Company Shortlisted,Power Bi,West,3,10,Applied,50.1,5.53,Yes
+E00223,2025-03-08 17:04:06.411,Company_031,Student_0026,J0201,Student Applied,Marketing,Central,1,3,Shortlisted,10.9,3.68,Yes
+E00224,2025-03-09 00:16:49.683,Company_042,Student_0249,J0022,Student Applied,Unknown,Central,3,3,Applied,30.5,6.92,Yes
+E00225,2025-03-09 07:29:32.955,Company_007,Student_0047,J0004,Student Applied,Marketing,North,1,3,Rejected,39.9,4.49,Yes
+E00226,2025-03-09 14:42:16.227,Company_016,Student_0121,J0154,Student Applied,Python,North,3,6,Rejected,29.6,11.23,Yes
+E00227,2025-03-09 21:54:59.499,Company_060,Student_0214,J0186,Company Posted,Sql,Central,4,8,Shortlisted,37.9,11.11,No
+E00228,2025-03-10 05:07:42.771,Company_002,Student_0239,J0029,Student Applied,Power Bi,South,4,7,Pending,71.8,6.28,Yes
+E00229,2025-03-10 12:20:26.043,Company_001,Student_0056,J0109,Company Shortlisted,Python,Central,0,4,Applied,10.6,4.27,Yes
+E00230,2025-03-10 19:33:09.316,Company_048,Student_0094,J0098,Company Posted,Data Analysis,Central,2,4,Applied,49.0,8.98,Yes
+E00231,2025-03-11 02:45:52.588,Company_012,Student_0107,J0215,Student Applied,Java,East,5,10,Applied,29.1,0.92,Yes
+E00232,2025-03-11 09:58:35.860,Company_069,Student_0063,J0037,Company Posted,Python,East,3,2,Applied,10.4,5.96,Yes
+E00233,2025-03-11 17:11:19.132,Company_037,Student_0048,J0075,Company Shortlisted,Python,East,5,1,Rejected,12.3,4.37,Yes
+E00234,2025-03-12 00:24:02.404,Company_032,Student_0061,J0070,Company Posted,Java,South,0,9,Shortlisted,68.4,11.09,Yes
+E00235,2025-03-12 07:36:45.676,Company_009,Student_0081,J0146,Company Shortlisted,Power Bi,South,2,2,Applied,63.5,0.64,Yes
+E00236,2025-03-12 14:49:28.948,Company_019,Student_0026,J0128,Student Applied,Power Bi,Central,3,8,Applied,65.4,6.86,No
+E00237,2025-03-12 22:02:12.220,Company_048,Student_0036,J0085,Company Posted,Java,East,1,9,Applied,71.4,9.02,Yes
+E00238,2025-03-13 05:14:55.492,Company_080,Student_0001,J0042,Company Posted,Marketing,South,2,4,Applied,15.8,6.08,Yes
+E00239,2025-03-13 12:27:38.765,Company_003,Student_0008,J0100,Company Posted,Data Analysis,North,4,8,Rejected,26.2,1.48,Yes
+E00240,2025-03-13 19:40:22.037,Company_020,Student_0113,J0041,Student Applied,Tableau,Central,0,9,Applied,48.5,11.68,No
+E00241,2025-03-14 02:53:05.309,Company_024,Student_0099,J0166,Company Posted,Data Analysis,West,2,10,Applied,35.3,6.46,Yes
+E00242,2025-03-14 10:05:48.581,Company_054,Student_0180,J0034,Company Shortlisted,Power Bi,Central,2,10,Applied,30.7,7.56,No
+E00243,2025-03-14 17:18:31.853,Company_033,Student_0207,J0017,Student Applied,Sql,West,4,5,Pending,26.4,3.22,Yes
+E00244,2025-03-15 00:31:15.125,Company_024,Student_0047,J0165,Company Posted,Excel,East,3,7,Shortlisted,43.2,6.06,Yes
+E00245,2025-03-15 07:43:58.397,Company_075,Student_0127,J0153,Student Applied,Python,West,1,10,Applied,41.9,5.44,Yes
+E00246,2025-03-15 14:56:41.669,Company_072,Student_0056,J0122,Student Applied,Java,East,4,4,Shortlisted,12.5,1.36,No
+E00247,2025-03-15 22:09:24.942,Company_036,Student_0214,J0076,Company Posted,Java,North,1,1,Rejected,34.5,1.72,Yes
+E00248,2025-03-16 05:22:08.214,Company_038,Student_0014,J0087,Company Posted,Python,West,3,3,Pending,40.3,10.13,Yes
+E00249,2025-03-16 12:34:51.486,Company_025,Student_0218,J0117,Company Posted,Excel,Central,2,5,Applied,41.5,3.26,Yes
+E00250,2025-03-16 19:47:34.758,Company_018,Student_0028,J0106,Student Applied,Tableau,East,1,3,Pending,15.9,2.74,Yes
+E00251,2025-03-17 03:00:18.030,Company_066,Student_0215,J0086,Student Applied,Excel,Central,0,7,Pending,53.7,6.31,Yes
+E00252,2025-03-17 10:13:01.302,Company_054,Student_0078,J0213,Student Applied,Excel,South,0,9,Pending,2.8,9.34,Yes
+E00253,2025-03-17 17:25:44.574,Company_035,Student_0216,J0027,Company Shortlisted,Excel,East,4,6,Shortlisted,26.2,1.21,No
+E00254,2025-03-18 00:38:27.846,Company_080,Student_0130,J0057,Company Shortlisted,Tableau,West,3,10,Shortlisted,56.4,7.13,Yes
+E00255,2025-03-18 07:51:11.119,Company_061,Student_0109,J0031,Student Applied,Tableau,East,4,1,Applied,41.0,1.87,Yes
+E00256,2025-03-18 15:03:54.391,Company_041,Student_0154,J0134,Company Shortlisted,Power Bi,Central,4,7,Rejected,19.5,0.92,No
+E00257,2025-03-18 22:16:37.663,Company_033,Student_0014,J0219,Company Posted,Python,North,5,3,Shortlisted,50.3,1.11,No
+E00258,2025-03-19 05:29:20.935,Company_068,Student_0187,J0168,Company Posted,Tableau,East,4,5,Rejected,41.3,10.09,Yes
+E00259,2025-03-19 12:42:04.207,Company_033,Student_0056,J0098,Company Posted,Tableau,West,5,10,Shortlisted,57.5,1.86,No
+E00260,2025-03-19 19:54:47.479,Company_014,Student_0115,J0012,Student Applied,Power Bi,South,0,4,Rejected,53.2,1.02,Yes
+E00261,2025-03-20 03:07:30.751,Company_021,Student_0007,J0053,Student Applied,Java,North,0,10,Rejected,44.3,5.54,Yes
+E00262,2025-03-20 10:20:14.023,Company_048,Student_0003,J0199,Company Shortlisted,Power Bi,South,4,5,Applied,35.7,10.21,Yes
+E00263,2025-03-20 17:32:57.295,Company_020,Student_0111,J0138,Company Posted,Marketing,East,0,5,Rejected,10.5,3.52,Yes
+E00264,2025-03-21 00:45:40.568,Company_008,Student_0151,J0173,Company Posted,Marketing,Central,3,6,Shortlisted,19.6,5.35,Yes
+E00265,2025-03-21 07:58:23.840,Company_007,Student_0238,J0145,Student Applied,Sql,Central,5,10,Rejected,30.8,0.96,Yes
+E00266,2025-03-21 15:11:07.112,Company_067,Student_0107,J0154,Company Shortlisted,Excel,Unknown,5,10,Shortlisted,43.6,5.66,Yes
+E00267,2025-03-21 22:23:50.384,Company_017,Student_0239,J0213,Company Posted,Python,Central,4,6,Applied,37.5,7.14,Yes
+E00268,2025-03-22 05:36:33.656,Company_033,Student_0237,J0220,Student Applied,Finance,North,0,8,Pending,21.5,7.07,Yes
+E00269,2025-03-22 12:49:16.928,Company_048,Student_0018,J0190,Company Posted,Data Analysis,Central,1,8,Applied,1.5,4.32,Yes
+E00270,2025-03-22 20:02:00.200,Company_076,Student_0250,J0122,Company Posted,Power Bi,West,5,9,Rejected,36.2,4.13,Yes
+E00271,2025-03-23 03:14:43.472,Company_059,Student_0038,J0046,Company Shortlisted,Java,East,4,8,Shortlisted,21.3,1.73,Yes
+E00272,2025-03-23 10:27:26.745,Company_022,Student_0227,J0064,Company Shortlisted,Data Analysis,East,4,2,Shortlisted,53.2,4.72,Yes
+E00273,2025-03-23 17:40:10.017,Company_030,Student_0115,J0130,Company Posted,Java,Central,3,10,Applied,2.7,1.64,Yes
+E00274,2025-03-24 00:52:53.289,Company_038,Student_0015,J0054,Company Shortlisted,Data Analysis,South,2,1,Shortlisted,42.5,9.32,No
+E00275,2025-03-24 08:05:36.561,Company_051,Student_0192,J0107,Student Applied,Power Bi,East,2,10,Applied,67.8,11.61,Yes
+E00276,2025-03-24 15:18:19.833,Company_054,Student_0217,J0193,Company Shortlisted,Finance,Central,5,2,Applied,13.4,11.66,Yes
+E00277,2025-03-24 22:31:03.105,Company_008,Student_0119,J0051,Student Applied,Data Analysis,West,3,2,Applied,34.5,10.45,Yes
+E00278,2025-03-25 05:43:46.377,Company_027,Student_0229,J0181,Student Applied,Power Bi,Central,3,3,Applied,7.5,7.41,Yes
+E00279,2025-03-25 12:56:29.649,Company_027,Student_0028,J0036,Student Applied,Tableau,East,3,10,Pending,45.4,8.56,Yes
+E00280,2025-03-25 20:09:12.922,Company_021,Student_0202,J0115,Student Applied,Finance,West,5,7,Pending,40.1,3.78,Yes
+E00281,2025-03-26 03:21:56.194,Company_030,Student_0039,J0026,Company Posted,Java,Central,2,2,Applied,29.9,7.75,Yes
+E00282,2025-03-26 10:34:39.466,Company_028,Student_0185,J0029,Company Posted,Marketing,North,3,1,Rejected,38.0,5.74,Yes
+E00283,2025-03-26 17:47:22.738,Company_064,Student_0017,J0149,Company Posted,Excel,West,0,6,Applied,64.7,6.04,Yes
+E00284,2025-03-27 01:00:06.010,Company_069,Student_0231,J0011,Student Applied,Marketing,North,4,9,Rejected,14.9,9.21,No
+E00285,2025-03-27 08:12:49.282,Company_061,Student_0086,J0040,Company Posted,Finance,South,4,3,Rejected,2.6,3.74,Yes
+E00286,2025-03-27 15:25:32.554,Company_048,Student_0218,J0011,Student Applied,Java,West,1,6,Pending,62.2,4.16,Yes
+E00287,2025-03-27 22:38:15.826,Company_019,Student_0126,J0164,Company Shortlisted,Data Analysis,North,1,3,Applied,42.0,11.13,Yes
+E00288,2025-03-28 05:50:59.098,Company_004,Student_0044,J0113,Company Posted,Java,East,5,1,Rejected,64.2,1.15,Yes
+E00289,2025-03-28 13:03:42.371,Company_035,Student_0025,J0187,Student Applied,Data Analysis,East,5,5,Applied,43.4,6.08,Yes
+E00290,2025-03-28 20:16:25.643,Company_064,Student_0145,J0039,Student Applied,Power Bi,South,4,10,Pending,58.5,11.0,No
+E00291,2025-03-29 03:29:08.915,Company_049,Student_0013,J0054,Company Shortlisted,Finance,West,0,4,Applied,31.5,7.52,Yes
+E00292,2025-03-29 10:41:52.187,Company_017,Student_0212,J0098,Company Posted,Power Bi,West,2,7,Shortlisted,54.2,6.78,Yes
+E00293,2025-03-29 17:54:35.459,Company_044,Student_0025,J0055,Student Applied,Sql,West,2,6,Shortlisted,65.8,3.37,Yes
+E00294,2025-03-30 01:07:18.731,Company_030,Student_0068,J0111,Company Shortlisted,Data Analysis,South,5,10,Rejected,41.6,4.45,Yes
+E00295,2025-03-30 08:20:02.003,Company_046,Student_0138,J0152,Company Shortlisted,Tableau,West,0,7,Applied,13.8,10.3,Yes
+E00296,2025-03-30 15:32:45.275,Company_006,Student_0067,J0150,Student Applied,Power Bi,East,5,5,Pending,20.1,6.93,Yes
+E00297,2025-03-30 22:45:28.548,Company_037,Student_0233,J0069,Student Applied,Sql,North,2,4,Applied,15.1,6.42,No
+E00298,2025-03-31 05:58:11.820,Company_024,Student_0109,J0056,Student Applied,Python,East,5,7,Shortlisted,18.5,1.65,Yes
+E00299,2025-03-31 13:10:55.092,Company_046,Student_0146,J0033,Company Shortlisted,Marketing,East,3,7,Applied,22.8,0.68,No
+E00300,2025-03-31 20:23:38.364,Company_053,Student_0111,J0036,Student Applied,Java,North,5,6,Applied,40.4,11.58,Yes
+E00301,2025-04-01 03:36:21.636,Company_060,Student_0228,J0148,Company Posted,Sql,East,4,8,Shortlisted,42.7,4.84,Yes
+E00302,2025-04-01 10:49:04.908,Company_063,Student_0111,J0211,Company Shortlisted,Finance,South,5,4,Applied,31.3,7.44,Yes
+E00303,2025-04-01 18:01:48.180,Company_032,Student_0214,J0081,Student Applied,Power Bi,North,4,10,Applied,44.7,1.42,Yes
+E00304,2025-04-02 01:14:31.452,Company_033,Student_0034,J0190,Student Applied,Finance,Unknown,0,5,Applied,6.8,8.36,Yes
+E00305,2025-04-02 08:27:14.725,Company_067,Student_0111,J0109,Company Posted,Marketing,Central,2,4,Applied,7.2,11.22,No
+E00306,2025-04-02 15:39:57.997,Company_018,Student_0008,J0201,Student Applied,Tableau,East,1,1,Rejected,13.2,7.12,Yes
+E00307,2025-04-02 22:52:41.269,Company_025,Student_0168,J0154,Student Applied,Finance,South,1,8,Pending,37.8,1.95,Yes
+E00308,2025-04-03 06:05:24.541,Company_054,Student_0113,J0194,Student Applied,Data Analysis,West,2,1,Applied,16.2,7.19,Yes
+E00309,2025-04-03 13:18:07.813,Company_058,Student_0236,J0073,Company Posted,Tableau,East,1,5,Applied,21.1,9.31,Yes
+E00310,2025-04-03 20:30:51.085,Company_067,Student_0083,J0201,Student Applied,Tableau,West,5,6,Applied,29.4,5.17,Yes
+E00311,2025-04-04 03:43:34.357,Company_046,Student_0042,J0040,Company Shortlisted,Sql,Central,0,6,Applied,58.6,10.62,No
+E00312,2025-04-04 10:56:17.629,Company_024,Student_0169,J0017,Company Posted,Tableau,East,0,5,Rejected,2.0,7.96,No
+E00313,2025-04-04 18:09:00.902,Company_032,Student_0101,J0129,Company Shortlisted,Excel,North,2,3,Shortlisted,47.1,10.84,Yes
+E00314,2025-04-05 01:21:44.174,Company_047,Student_0006,J0217,Student Applied,Marketing,West,1,5,Applied,48.5,7.67,Yes
+E00315,2025-04-05 08:34:27.446,Company_023,Student_0180,J0061,Company Shortlisted,Tableau,Central,5,8,Applied,57.7,2.01,Yes
+E00316,2025-04-05 15:47:10.718,Company_066,Student_0026,J0171,Company Shortlisted,Finance,North,0,2,Applied,67.2,4.06,Yes
+E00317,2025-04-05 22:59:53.990,Company_027,Student_0064,J0104,Student Applied,Python,North,0,6,Rejected,2.4,2.82,Yes
+E00318,2025-04-06 06:12:37.262,Company_002,Student_0226,J0042,Student Applied,Excel,North,3,9,Pending,11.9,10.95,No
+E00319,2025-04-06 13:25:20.534,Company_017,Student_0187,J0025,Company Shortlisted,Excel,North,3,8,Applied,63.9,9.24,Yes
+E00320,2025-04-06 20:38:03.806,Company_033,Student_0184,J0039,Student Applied,Data Analysis,East,0,8,Applied,33.6,8.28,Yes
+E00321,2025-04-07 03:50:47.078,Company_009,Student_0059,J0035,Company Posted,Tableau,East,2,8,Pending,41.1,3.96,Yes
+E00322,2025-04-07 11:03:30.351,Company_043,Student_0109,J0131,Student Applied,Data Analysis,East,4,7,Pending,48.1,2.62,Yes
+E00323,2025-04-07 18:16:13.623,Company_048,Student_0198,J0108,Company Shortlisted,Data Analysis,Central,4,8,Applied,49.2,9.2,Yes
+E00324,2025-04-08 01:28:56.895,Company_039,Student_0229,J0172,Student Applied,Python,Central,5,6,Applied,67.2,5.95,Yes
+E00325,2025-04-08 08:41:40.167,Company_042,Student_0121,J0179,Company Shortlisted,Sql,Central,0,2,Applied,71.8,3.1,Yes
+E00326,2025-04-08 15:54:23.439,Company_026,Student_0033,J0102,Student Applied,Tableau,South,0,2,Shortlisted,52.1,7.59,Yes
+E00327,2025-04-08 23:07:06.711,Company_050,Student_0181,J0098,Company Shortlisted,Power Bi,Central,0,8,Applied,21.4,0.96,Yes
+E00328,2025-04-09 06:19:49.983,Company_025,Student_0150,J0012,Company Posted,Data Analysis,East,2,1,Applied,63.5,4.25,Yes
+E00329,2025-04-09 13:32:33.255,Company_024,Student_0021,J0019,Student Applied,Marketing,East,3,6,Shortlisted,4.5,5.89,Yes
+E00330,2025-04-09 20:45:16.528,Company_013,Student_0198,J0101,Company Posted,Java,South,0,6,Applied,17.4,2.2,Yes
+E00331,2025-04-10 03:57:59.800,Company_060,Student_0070,J0044,Company Posted,Marketing,South,0,4,Rejected,64.7,11.82,No
+E00332,2025-04-10 11:10:43.072,Company_007,Student_0247,J0187,Student Applied,Python,Central,1,10,Applied,19.2,2.9,Yes
+E00333,2025-04-10 18:23:26.344,Company_057,Student_0112,J0049,Student Applied,Python,West,2,3,Applied,16.7,2.0,No
+E00334,2025-04-11 01:36:09.616,Company_036,Student_0004,J0189,Student Applied,Finance,South,5,3,Shortlisted,10.8,2.84,Yes
+E00335,2025-04-11 08:48:52.888,Company_045,Student_0094,J0017,Student Applied,Sql,North,0,1,Applied,62.0,9.34,Yes
+E00336,2025-04-11 16:01:36.160,Company_020,Student_0075,J0074,Student Applied,Data Analysis,East,1,3,Pending,36.5,5.39,Yes
+E00337,2025-04-11 23:14:19.432,Company_065,Student_0190,J0057,Company Posted,Marketing,North,4,4,Shortlisted,48.9,7.0,Yes
+E00338,2025-04-12 06:27:02.705,Company_008,Student_0062,J0055,Student Applied,Java,East,5,5,Applied,18.0,0.74,No
+E00339,2025-04-12 13:39:45.977,Company_016,Student_0094,J0047,Company Posted,Python,East,0,3,Rejected,54.8,0.9,Yes
+E00340,2025-04-12 20:52:29.249,Company_014,Student_0095,J0012,Company Posted,Python,South,0,6,Applied,55.0,5.63,No
+E00341,2025-04-13 04:05:12.521,Company_076,Student_0152,J0062,Student Applied,Sql,South,1,5,Pending,23.2,9.89,Yes
+E00342,2025-04-13 11:17:55.793,Company_015,Student_0055,J0080,Student Applied,Java,North,2,3,Applied,30.2,10.68,Yes
+E00343,2025-04-13 18:30:39.065,Company_066,Student_0137,J0216,Student Applied,Java,East,0,6,Shortlisted,15.9,1.5,No
+E00344,2025-04-14 01:43:22.337,Company_032,Student_0247,J0083,Student Applied,Sql,North,4,6,Applied,70.3,6.69,Yes
+E00345,2025-04-14 08:56:05.609,Company_063,Student_0131,J0008,Student Applied,Python,West,0,8,Shortlisted,35.4,11.0,Yes
+E00346,2025-04-14 16:08:48.881,Company_051,Student_0243,J0149,Company Shortlisted,Tableau,North,4,2,Rejected,67.4,4.96,Yes
+E00347,2025-04-14 23:21:32.154,Company_025,Student_0031,J0081,Student Applied,Tableau,Central,5,1,Rejected,22.5,10.04,No
+E00348,2025-04-15 06:34:15.426,Company_058,Student_0040,J0215,Student Applied,Sql,Unknown,5,4,Applied,56.5,2.04,No
+E00349,2025-04-15 13:46:58.698,Company_063,Student_0229,J0118,Company Posted,Java,Central,3,7,Applied,55.4,11.26,Yes
+E00350,2025-04-15 20:59:41.970,Company_062,Student_0036,J0208,Student Applied,Data Analysis,Central,3,10,Rejected,50.1,9.14,Yes
+E00351,2025-04-16 04:12:25.242,Company_022,Student_0152,J0198,Student Applied,Sql,Central,4,3,Pending,69.6,11.33,Yes
+E00352,2025-04-16 11:25:08.514,Company_058,Student_0223,J0200,Student Applied,Sql,West,2,3,Applied,28.9,8.28,Yes
+E00353,2025-04-16 18:37:51.786,Company_058,Student_0006,J0025,Student Applied,Excel,North,0,5,Shortlisted,10.3,4.68,Yes
+E00354,2025-04-17 01:50:35.058,Company_049,Student_0066,J0210,Student Applied,Marketing,North,0,5,Applied,48.7,11.29,Yes
+E00355,2025-04-17 09:03:18.331,Company_052,Student_0212,J0089,Student Applied,Java,West,3,10,Pending,52.8,3.67,Yes
+E00356,2025-04-17 16:16:01.603,Company_042,Student_0220,J0012,Student Applied,Finance,East,4,3,Applied,41.8,4.32,Yes
+E00357,2025-04-17 23:28:44.875,Company_070,Student_0075,J0143,Company Shortlisted,Finance,South,0,9,Applied,15.7,8.56,Yes
+E00358,2025-04-18 06:41:28.147,Company_015,Student_0004,J0059,Student Applied,Java,North,0,4,Rejected,36.8,9.3,Yes
+E00359,2025-04-18 13:54:11.419,Company_054,Student_0079,J0154,Company Shortlisted,Excel,South,2,3,Applied,23.2,11.19,Yes
+E00360,2025-04-18 21:06:54.691,Company_060,Student_0134,J0109,Company Posted,Excel,West,1,2,Shortlisted,31.4,2.86,Yes
+E00361,2025-04-19 04:19:37.963,Company_008,Student_0118,J0026,Company Posted,Python,East,3,10,Shortlisted,46.8,9.68,Yes
+E00362,2025-04-19 11:32:21.235,Company_053,Student_0113,J0047,Company Posted,Marketing,East,3,9,Applied,53.9,8.99,Yes
+E00363,2025-04-19 18:45:04.508,Company_060,Student_0094,J0032,Student Applied,Tableau,East,1,4,Applied,17.5,1.23,Yes
+E00364,2025-04-20 01:57:47.780,Company_005,Student_0248,J0010,Company Shortlisted,Power Bi,West,0,3,Shortlisted,29.8,4.95,No
+E00365,2025-04-20 09:10:31.052,Company_068,Student_0230,J0016,Company Posted,Power Bi,Central,2,7,Applied,20.1,3.75,No
+E00366,2025-04-20 16:23:14.324,Company_006,Student_0179,J0199,Company Shortlisted,Power Bi,Central,2,8,Shortlisted,15.1,4.0,Yes
+E00367,2025-04-20 23:35:57.596,Company_047,Student_0062,J0145,Company Posted,Java,South,3,2,Rejected,56.6,11.8,Yes
+E00368,2025-04-21 06:48:40.868,Company_055,Student_0185,J0151,Company Shortlisted,Finance,Central,2,7,Rejected,65.6,7.89,Yes
+E00369,2025-04-21 14:01:24.140,Company_040,Student_0194,J0026,Student Applied,Finance,Central,5,5,Applied,27.3,8.75,No
+E00370,2025-04-21 21:14:07.412,Company_052,Student_0079,J0213,Company Posted,Tableau,East,1,5,Applied,54.3,11.73,Yes
+E00371,2025-04-22 04:26:50.684,Company_016,Student_0203,J0086,Student Applied,Java,East,0,3,Applied,64.7,4.84,Yes
+E00372,2025-04-22 11:39:33.957,Company_013,Student_0136,J0135,Company Posted,Power Bi,South,5,5,Applied,61.1,9.72,No
+E00373,2025-04-22 18:52:17.229,Company_030,Student_0026,J0014,Company Posted,Data Analysis,North,1,2,Applied,14.0,5.5,Yes
+E00374,2025-04-23 02:05:00.501,Company_019,Student_0179,J0079,Company Posted,Finance,South,4,4,Rejected,68.9,10.5,Yes
+E00375,2025-04-23 09:17:43.773,Company_017,Student_0173,J0117,Company Shortlisted,Unknown,South,3,6,Applied,27.7,2.58,Yes
+E00376,2025-04-23 16:30:27.045,Company_063,Student_0044,J0007,Student Applied,Sql,West,2,1,Applied,25.1,11.4,Yes
+E00377,2025-04-23 23:43:10.317,Company_019,Student_0133,J0137,Company Posted,Data Analysis,West,4,10,Applied,5.4,3.02,No
+E00378,2025-04-24 06:55:53.589,Company_058,Student_0070,J0115,Student Applied,Finance,South,2,4,Rejected,35.5,4.25,No
+E00379,2025-04-24 14:08:36.861,Company_055,Student_0154,J0176,Student Applied,Excel,South,5,6,Applied,8.7,9.2,No
+E00380,2025-04-24 21:21:20.134,Company_062,Student_0118,J0072,Company Posted,Finance,South,0,9,Shortlisted,18.6,5.03,No
+E00381,2025-04-25 04:34:03.406,Company_023,Student_0068,J0059,Student Applied,Python,Central,0,2,Applied,23.5,7.49,Yes
+E00382,2025-04-25 11:46:46.678,Company_009,Student_0019,J0215,Company Posted,Power Bi,West,0,7,Pending,58.4,5.61,Yes
+E00383,2025-04-25 18:59:29.950,Company_012,Student_0212,J0082,Company Posted,Excel,South,2,6,Pending,63.2,9.04,Yes
+E00384,2025-04-26 02:12:13.222,Company_001,Student_0225,J0116,Student Applied,Java,East,4,2,Applied,22.5,3.13,Yes
+E00385,2025-04-26 09:24:56.494,Company_058,Student_0020,J0167,Company Posted,Unknown,East,0,8,Applied,62.0,1.17,Yes
+E00386,2025-04-26 16:37:39.766,Company_001,Student_0113,J0146,Student Applied,Power Bi,Central,4,7,Applied,61.9,3.95,Yes
+E00387,2025-04-26 23:50:23.038,Company_034,Student_0140,J0187,Student Applied,Unknown,Central,2,5,Applied,55.3,5.95,No
+E00388,2025-04-27 07:03:06.311,Company_048,Student_0047,J0103,Company Posted,Data Analysis,North,5,5,Rejected,11.4,2.43,Yes
+E00389,2025-04-27 14:15:49.583,Company_001,Student_0001,J0017,Student Applied,Sql,North,4,7,Rejected,50.0,4.58,Yes
+E00390,2025-04-27 21:28:32.855,Company_016,Student_0090,J0014,Company Posted,Excel,North,5,9,Rejected,68.1,5.1,Yes
+E00391,2025-04-28 04:41:16.127,Company_061,Student_0142,J0159,Company Shortlisted,Tableau,Central,2,9,Rejected,49.5,1.16,Yes
+E00392,2025-04-28 11:53:59.399,Company_064,Student_0064,J0152,Student Applied,Excel,Central,2,9,Applied,24.5,7.21,Yes
+E00393,2025-04-28 19:06:42.671,Company_063,Student_0038,J0108,Company Shortlisted,Finance,Central,3,6,Applied,36.5,10.67,Yes
+E00394,2025-04-29 02:19:25.943,Company_069,Student_0037,J0188,Student Applied,Finance,East,2,10,Rejected,46.8,2.25,Yes
+E00395,2025-04-29 09:32:09.215,Company_022,Student_0126,J0045,Company Posted,Finance,Central,2,6,Applied,37.3,7.37,No
+E00396,2025-04-29 16:44:52.487,Company_067,Student_0139,J0098,Student Applied,Data Analysis,East,1,3,Rejected,9.5,8.14,No
+E00397,2025-04-29 23:57:35.760,Company_076,Student_0100,J0131,Company Shortlisted,Power Bi,North,0,1,Applied,23.2,5.32,No
+E00398,2025-04-30 07:10:19.032,Company_026,Student_0077,J0037,Student Applied,Tableau,North,3,7,Applied,58.0,8.56,Yes
+E00399,2025-04-30 14:23:02.304,Company_016,Student_0235,J0171,Company Shortlisted,Tableau,North,3,4,Pending,62.2,5.22,Yes
+E00400,2025-04-30 21:35:45.576,Company_051,Student_0003,J0168,Company Shortlisted,Finance,South,3,1,Applied,10.7,6.3,Yes
+E00401,2025-05-01 04:48:28.848,Company_057,Student_0161,J0218,Company Posted,Marketing,South,1,8,Pending,68.6,0.58,Yes
+E00402,2025-05-01 12:01:12.120,Company_029,Student_0134,J0183,Company Posted,Data Analysis,West,5,6,Pending,24.3,8.45,Yes
+E00403,2025-05-01 19:13:55.392,Company_078,Student_0178,J0215,Student Applied,Finance,West,2,6,Rejected,48.0,8.11,Yes
+E00404,2025-05-02 02:26:38.664,Company_069,Student_0248,J0108,Student Applied,Sql,West,0,2,Shortlisted,54.4,0.94,Yes
+E00405,2025-05-02 09:39:21.937,Company_047,Student_0010,J0039,Company Shortlisted,Power Bi,South,4,1,Shortlisted,58.6,4.73,No
+E00406,2025-05-02 16:52:05.209,Company_062,Student_0005,J0015,Company Shortlisted,Java,South,5,2,Pending,68.1,11.76,Yes
+E00407,2025-05-03 00:04:48.481,Company_069,Student_0151,J0120,Student Applied,Sql,West,2,4,Applied,23.2,5.34,No
+E00408,2025-05-03 07:17:31.753,Company_076,Student_0138,J0004,Company Posted,Marketing,West,1,2,Shortlisted,62.0,6.27,Yes
+E00409,2025-05-03 14:30:15.025,Company_016,Student_0172,J0093,Company Shortlisted,Excel,Central,2,1,Shortlisted,10.3,10.96,No
+E00410,2025-05-03 21:42:58.297,Company_048,Student_0130,J0214,Company Posted,Excel,West,2,7,Applied,51.1,8.75,No
+E00411,2025-05-04 04:55:41.569,Company_039,Student_0013,J0153,Company Shortlisted,Sql,Central,1,8,Shortlisted,53.7,7.19,Yes
+E00412,2025-05-04 12:08:24.841,Company_033,Student_0168,J0141,Student Applied,Finance,East,3,6,Applied,49.1,9.67,Yes
+E00413,2025-05-04 19:21:08.114,Company_023,Student_0130,J0210,Student Applied,Java,South,3,4,Shortlisted,18.9,10.44,Yes
+E00414,2025-05-05 02:33:51.386,Company_010,Student_0084,J0161,Company Posted,Python,West,0,6,Rejected,63.0,5.75,Yes
+E00415,2025-05-05 09:46:34.658,Company_069,Student_0065,J0016,Student Applied,Python,South,0,3,Applied,13.0,5.96,Yes
+E00416,2025-05-05 16:59:17.930,Company_034,Student_0063,J0170,Student Applied,Marketing,South,3,8,Pending,4.8,4.94,Yes
+E00417,2025-05-06 00:12:01.202,Company_052,Student_0101,J0108,Student Applied,Finance,South,5,10,Rejected,51.9,11.62,Yes
+E00418,2025-05-06 07:24:44.474,Company_010,Student_0073,J0126,Company Posted,Tableau,East,4,2,Rejected,34.8,8.52,Yes
+E00419,2025-05-06 14:37:27.746,Company_019,Student_0017,J0194,Student Applied,Tableau,North,2,5,Shortlisted,61.3,1.46,Yes
+E00420,2025-05-06 21:50:11.018,Company_058,Student_0009,J0055,Company Shortlisted,Power Bi,West,4,1,Rejected,28.2,10.42,Yes
+E00421,2025-05-07 05:02:54.290,Company_001,Student_0203,J0170,Company Posted,Java,North,2,6,Applied,12.9,6.03,No
+E00422,2025-05-07 12:15:37.563,Company_069,Student_0143,J0034,Company Posted,Java,North,3,2,Rejected,60.4,1.29,Yes
+E00423,2025-05-07 19:28:20.835,Company_004,Student_0152,J0158,Student Applied,Excel,North,0,4,Applied,40.0,6.82,Yes
+E00424,2025-05-08 02:41:04.107,Company_016,Student_0038,J0013,Student Applied,Data Analysis,South,5,6,Pending,14.4,5.3,Yes
+E00425,2025-05-08 09:53:47.379,Company_024,Student_0247,J0141,Student Applied,Marketing,Central,0,10,Pending,52.1,10.59,Yes
+E00426,2025-05-08 17:06:30.651,Company_080,Student_0163,J0018,Student Applied,Python,South,4,8,Applied,37.3,2.85,Yes
+E00427,2025-05-09 00:19:13.923,Company_002,Student_0094,J0160,Company Posted,Marketing,South,0,8,Applied,43.9,10.0,Yes
+E00428,2025-05-09 07:31:57.195,Company_032,Student_0095,J0096,Student Applied,Tableau,North,3,6,Rejected,33.7,6.91,No
+E00429,2025-05-09 14:44:40.467,Company_024,Student_0049,J0123,Student Applied,Tableau,South,5,4,Applied,59.8,1.13,No
+E00430,2025-05-09 21:57:23.740,Company_012,Student_0069,J0039,Student Applied,Sql,North,4,8,Pending,59.9,11.68,No
+E00431,2025-05-10 05:10:07.012,Company_050,Student_0062,J0046,Company Shortlisted,Power Bi,Unknown,5,8,Applied,51.4,6.4,Yes
+E00432,2025-05-10 12:22:50.284,Company_035,Student_0188,J0029,Company Posted,Java,West,2,10,Applied,8.5,3.85,Yes
+E00433,2025-05-10 19:35:33.556,Company_033,Student_0236,J0190,Student Applied,Marketing,North,0,1,Pending,60.6,5.9,Yes
+E00434,2025-05-11 02:48:16.828,Company_033,Student_0178,J0062,Student Applied,Tableau,Central,5,4,Rejected,48.6,10.37,Yes
+E00435,2025-05-11 10:01:00.100,Company_061,Student_0078,J0185,Student Applied,Data Analysis,West,1,4,Rejected,50.5,4.01,Yes
+E00436,2025-05-11 17:13:43.372,Company_051,Student_0117,J0016,Student Applied,Excel,East,0,7,Applied,26.8,2.72,Yes
+E00437,2025-05-12 00:26:26.644,Company_043,Student_0120,J0184,Student Applied,Python,North,2,7,Rejected,63.4,1.98,No
+E00438,2025-05-12 07:39:09.917,Company_012,Student_0203,J0121,Company Shortlisted,Power Bi,North,5,8,Shortlisted,52.5,3.93,Yes
+E00439,2025-05-12 14:51:53.189,Company_067,Student_0137,J0010,Company Posted,Data Analysis,East,4,5,Shortlisted,9.0,9.47,Yes
+E00440,2025-05-12 22:04:36.461,Company_065,Student_0162,J0158,Company Posted,Power Bi,East,2,7,Rejected,30.0,5.92,Yes
+E00441,2025-05-13 05:17:19.733,Company_033,Student_0076,J0153,Student Applied,Sql,North,1,8,Shortlisted,63.9,3.12,Yes
+E00442,2025-05-13 12:30:03.005,Company_040,Student_0227,J0103,Student Applied,Tableau,East,5,9,Shortlisted,4.4,2.41,Yes
+E00443,2025-05-13 19:42:46.277,Company_074,Student_0035,J0084,Company Posted,Excel,South,3,3,Applied,69.3,4.33,Yes
+E00444,2025-05-14 02:55:29.549,Company_043,Student_0001,J0133,Company Posted,Data Analysis,West,0,3,Rejected,49.2,11.31,Yes
+E00445,2025-05-14 10:08:12.821,Company_044,Student_0040,J0065,Company Posted,Power Bi,West,4,4,Applied,45.8,4.44,Yes
+E00446,2025-05-14 17:20:56.093,Company_029,Student_0064,J0177,Company Shortlisted,Java,West,3,5,Rejected,20.2,11.86,Yes
+E00447,2025-05-15 00:33:39.366,Company_013,Student_0150,J0003,Company Posted,Sql,South,5,10,Applied,18.7,6.08,Yes
+E00448,2025-05-15 07:46:22.638,Company_012,Student_0060,J0173,Company Posted,Java,East,5,1,Shortlisted,35.4,2.56,Yes
+E00449,2025-05-15 14:59:05.910,Company_046,Student_0064,J0142,Company Posted,Excel,Central,2,7,Rejected,22.2,10.75,Yes
+E00450,2025-05-15 22:11:49.182,Company_002,Student_0093,J0120,Student Applied,Data Analysis,East,5,9,Applied,56.1,5.79,Yes
+E00451,2025-05-16 05:24:32.454,Company_035,Student_0072,J0158,Company Posted,Sql,North,4,8,Applied,28.9,8.66,No
+E00452,2025-05-16 12:37:15.726,Company_008,Student_0011,J0068,Student Applied,Data Analysis,West,3,5,Applied,10.9,11.81,Yes
+E00453,2025-05-16 19:49:58.998,Company_026,Student_0105,J0146,Company Posted,Tableau,Unknown,4,4,Shortlisted,1.8,1.08,Yes
+E00454,2025-05-17 03:02:42.270,Company_074,Student_0229,J0190,Company Shortlisted,Finance,Central,1,7,Rejected,39.6,1.61,Yes
+E00455,2025-05-17 10:15:25.543,Company_034,Student_0014,J0037,Company Posted,Sql,North,1,5,Applied,70.3,8.79,Yes
+E00456,2025-05-17 17:28:08.815,Company_007,Student_0060,J0153,Student Applied,Java,South,0,7,Rejected,27.2,3.74,Yes
+E00457,2025-05-18 00:40:52.087,Company_068,Student_0030,J0176,Company Shortlisted,Excel,South,0,1,Applied,26.4,2.62,Yes
+E00458,2025-05-18 07:53:35.359,Company_058,Student_0035,J0193,Student Applied,Tableau,Central,1,1,Shortlisted,25.4,0.95,Yes
+E00459,2025-05-18 15:06:18.631,Company_075,Student_0213,J0181,Student Applied,Finance,North,5,10,Pending,38.0,0.75,Yes
+E00460,2025-05-18 22:19:01.903,Company_029,Student_0165,J0207,Company Posted,Python,West,4,3,Applied,32.3,9.41,Yes
+E00461,2025-05-19 05:31:45.175,Company_036,Student_0005,J0073,Company Posted,Tableau,East,1,2,Shortlisted,63.5,2.05,Yes
+E00462,2025-05-19 12:44:28.447,Company_021,Student_0083,J0143,Student Applied,Excel,North,0,2,Applied,36.9,5.88,Yes
+E00463,2025-05-19 19:57:11.720,Company_036,Student_0123,J0049,Company Shortlisted,Power Bi,South,1,7,Applied,37.1,7.47,Yes
+E00464,2025-05-20 03:09:54.992,Company_010,Student_0078,J0121,Student Applied,Sql,Central,5,10,Applied,10.8,5.43,Yes
+E00465,2025-05-20 10:22:38.264,Company_073,Student_0154,J0088,Student Applied,Data Analysis,Central,1,2,Applied,70.8,0.81,Yes
+E00466,2025-05-20 17:35:21.536,Company_024,Student_0062,J0196,Student Applied,Excel,East,4,4,Shortlisted,18.7,9.51,Yes
+E00467,2025-05-21 00:48:04.808,Company_064,Student_0132,J0140,Student Applied,Sql,Central,3,2,Shortlisted,6.2,0.62,No
+E00468,2025-05-21 08:00:48.080,Company_049,Student_0089,J0187,Company Posted,Data Analysis,Central,5,6,Shortlisted,48.1,9.26,Yes
+E00469,2025-05-21 15:13:31.352,Company_036,Student_0237,J0037,Student Applied,Marketing,North,0,8,Applied,43.3,10.77,Yes
+E00470,2025-05-21 22:26:14.624,Company_024,Student_0042,J0061,Company Shortlisted,Java,West,4,10,Applied,30.5,5.48,No
+E00471,2025-05-22 05:38:57.896,Company_023,Student_0089,J0171,Company Posted,Python,East,1,4,Rejected,31.0,6.66,Yes
+E00472,2025-05-22 12:51:41.169,Company_062,Student_0146,J0124,Student Applied,Tableau,North,1,5,Pending,56.7,5.99,No
+E00473,2025-05-22 20:04:24.441,Company_037,Student_0040,J0198,Company Posted,Excel,West,3,4,Applied,14.9,4.98,No
+E00474,2025-05-23 03:17:07.713,Company_012,Student_0072,J0039,Student Applied,Python,North,0,3,Pending,59.2,10.71,No
+E00475,2025-05-23 10:29:50.985,Company_055,Student_0039,J0184,Company Posted,Power Bi,North,0,5,Shortlisted,47.1,10.78,Yes
+E00476,2025-05-23 17:42:34.257,Company_013,Student_0104,J0063,Student Applied,Sql,Central,2,9,Shortlisted,30.7,4.36,Yes
+E00477,2025-05-24 00:55:17.529,Company_023,Student_0014,J0046,Student Applied,Sql,West,0,8,Shortlisted,33.5,7.57,Yes
+E00478,2025-05-24 08:08:00.801,Company_030,Student_0032,J0088,Student Applied,Excel,East,3,8,Applied,19.2,11.16,Yes
+E00479,2025-05-24 15:20:44.073,Company_017,Student_0179,J0011,Student Applied,Finance,East,2,8,Applied,54.4,11.56,Yes
+E00480,2025-05-24 22:33:27.346,Company_062,Student_0125,J0062,Company Shortlisted,Finance,West,2,8,Shortlisted,37.4,6.35,Yes
+E00481,2025-05-25 05:46:10.618,Company_013,Student_0166,J0077,Company Shortlisted,Marketing,Central,1,7,Applied,23.8,5.71,No
+E00482,2025-05-25 12:58:53.890,Company_059,Student_0097,J0153,Company Posted,Java,South,1,8,Pending,43.3,3.7,Yes
+E00483,2025-05-25 20:11:37.162,Company_019,Student_0023,J0199,Student Applied,Data Analysis,North,0,8,Applied,71.7,11.53,Yes
+E00484,2025-05-26 03:24:20.434,Company_049,Student_0063,J0052,Company Posted,Power Bi,Central,2,8,Applied,31.9,2.14,Yes
+E00485,2025-05-26 10:37:03.706,Company_012,Student_0143,J0004,Company Shortlisted,Python,West,1,10,Rejected,66.4,7.17,Yes
+E00486,2025-05-26 17:49:46.978,Company_061,Student_0225,J0059,Company Shortlisted,Finance,North,3,7,Applied,25.5,3.75,Yes
+E00487,2025-05-27 01:02:30.250,Company_019,Student_0153,J0072,Student Applied,Marketing,East,1,1,Shortlisted,4.9,3.71,Yes
+E00488,2025-05-27 08:15:13.523,Company_076,Student_0145,J0148,Company Shortlisted,Marketing,South,5,4,Rejected,15.5,5.16,Yes
+E00489,2025-05-27 15:27:56.795,Company_009,Student_0225,J0093,Student Applied,Excel,East,5,4,Pending,30.7,11.99,Yes
+E00490,2025-05-27 22:40:40.067,Company_071,Student_0239,J0063,Student Applied,Power Bi,West,1,5,Rejected,16.6,1.13,No
+E00491,2025-05-28 05:53:23.339,Company_028,Student_0247,J0054,Company Posted,Data Analysis,North,2,10,Rejected,1.0,7.15,Yes
+E00492,2025-05-28 13:06:06.611,Company_078,Student_0194,J0117,Student Applied,Java,West,2,6,Rejected,66.0,1.45,No
+E00493,2025-05-28 20:18:49.883,Company_052,Student_0206,J0110,Company Posted,Tableau,North,4,4,Pending,60.9,2.28,No
+E00494,2025-05-29 03:31:33.155,Company_016,Student_0053,J0074,Company Shortlisted,Excel,Central,5,2,Applied,53.7,5.55,Yes
+E00495,2025-05-29 10:44:16.427,Company_069,Student_0104,J0107,Company Shortlisted,Data Analysis,South,3,6,Applied,12.9,6.37,Yes
+E00496,2025-05-29 17:56:59.699,Company_012,Student_0104,J0057,Student Applied,Tableau,Central,2,8,Applied,9.5,3.48,Yes
+E00497,2025-05-30 01:09:42.972,Company_025,Student_0179,J0218,Company Posted,Tableau,Central,0,8,Applied,5.8,4.14,Yes
+E00498,2025-05-30 08:22:26.244,Company_052,Student_0039,J0169,Company Posted,Power Bi,West,5,7,Rejected,52.4,1.5,No
+E00499,2025-05-30 15:35:09.516,Company_053,Student_0179,J0003,Company Posted,Power Bi,South,3,6,Shortlisted,66.9,3.99,Yes
+E00500,2025-05-30 22:47:52.788,Company_023,Student_0198,J0120,Student Applied,Python,North,3,2,Shortlisted,31.6,11.62,Yes
+E00501,2025-05-31 06:00:36.060,Company_016,Student_0134,J0006,Company Posted,Marketing,North,2,7,Applied,9.5,11.36,Yes
+E00502,2025-05-31 13:13:19.332,Company_057,Student_0067,J0005,Company Shortlisted,Data Analysis,East,3,5,Rejected,37.4,4.35,No
+E00503,2025-05-31 20:26:02.604,Company_039,Student_0135,J0005,Student Applied,Excel,North,2,6,Applied,25.8,7.06,No
+E00504,2025-06-01 03:38:45.876,Company_053,Student_0179,J0054,Company Posted,Sql,West,1,10,Rejected,27.6,10.96,No
+E00505,2025-06-01 10:51:29.149,Company_042,Student_0200,J0047,Student Applied,Excel,North,5,8,Shortlisted,45.1,0.57,No
+E00506,2025-06-01 18:04:12.421,Company_058,Student_0042,J0215,Student Applied,Python,Central,4,8,Applied,52.0,9.82,No
+E00507,2025-06-02 01:16:55.693,Company_039,Student_0192,J0177,Student Applied,Java,Central,1,3,Applied,8.9,11.41,No
+E00508,2025-06-02 08:29:38.965,Company_014,Student_0244,J0009,Student Applied,Marketing,South,5,7,Applied,3.5,1.55,Yes
+E00509,2025-06-02 15:42:22.237,Company_005,Student_0015,J0099,Company Shortlisted,Sql,North,2,1,Rejected,71.6,2.36,Yes
+E00510,2025-06-02 22:55:05.509,Company_035,Student_0111,J0020,Student Applied,Finance,West,5,1,Pending,17.5,11.55,Yes
+E00511,2025-06-03 06:07:48.781,Company_075,Student_0157,J0122,Student Applied,Java,South,2,7,Shortlisted,4.8,6.68,Yes
+E00512,2025-06-03 13:20:32.053,Company_018,Student_0033,J0061,Company Shortlisted,Power Bi,East,1,10,Applied,14.5,0.66,Yes
+E00513,2025-06-03 20:33:15.326,Company_076,Student_0244,J0123,Company Posted,Tableau,West,0,9,Applied,3.8,3.46,No
+E00514,2025-06-04 03:45:58.598,Company_009,Student_0222,J0163,Company Shortlisted,Finance,West,0,7,Rejected,28.8,5.67,Yes
+E00515,2025-06-04 10:58:41.870,Company_074,Student_0231,J0178,Company Posted,Excel,West,5,10,Rejected,58.0,8.47,Yes
+E00516,2025-06-04 18:11:25.142,Company_058,Student_0155,J0082,Company Shortlisted,Excel,Central,0,5,Applied,25.2,8.93,Yes
+E00517,2025-06-05 01:24:08.414,Company_017,Student_0164,J0062,Student Applied,Power Bi,West,2,8,Applied,32.5,11.95,Yes
+E00518,2025-06-05 08:36:51.686,Company_007,Student_0157,J0145,Company Shortlisted,Python,North,3,2,Rejected,49.0,3.81,Yes
+E00519,2025-06-05 15:49:34.958,Company_046,Student_0038,J0216,Company Shortlisted,Data Analysis,West,2,9,Applied,37.1,6.69,Yes
+E00520,2025-06-05 23:02:18.230,Company_013,Student_0185,J0003,Company Shortlisted,Finance,Central,3,6,Applied,62.2,6.63,Yes
+E00521,2025-06-06 06:15:01.503,Company_040,Student_0097,J0160,Company Shortlisted,Finance,West,1,9,Applied,35.4,5.16,Yes
+E00522,2025-06-06 13:27:44.775,Company_042,Student_0229,J0013,Company Posted,Java,East,4,2,Shortlisted,1.7,2.45,No
+E00523,2025-06-06 20:40:28.047,Company_009,Student_0155,J0120,Company Posted,Marketing,East,3,3,Rejected,56.2,11.74,Yes
+E00524,2025-06-07 03:53:11.319,Company_050,Student_0183,J0125,Student Applied,Java,Central,0,8,Pending,33.7,10.31,Yes
+E00525,2025-06-07 11:05:54.591,Company_027,Student_0033,J0089,Company Posted,Data Analysis,North,2,1,Shortlisted,71.2,6.23,Yes
+E00526,2025-06-07 18:18:37.863,Company_066,Student_0196,J0073,Student Applied,Excel,North,1,10,Shortlisted,35.3,7.44,Yes
+E00527,2025-06-08 01:31:21.135,Company_005,Student_0086,J0068,Student Applied,Excel,South,0,7,Applied,71.1,3.11,Yes
+E00528,2025-06-08 08:44:04.407,Company_029,Student_0066,J0142,Company Shortlisted,Excel,Central,1,7,Shortlisted,54.6,6.75,Yes
+E00529,2025-06-08 15:56:47.679,Company_037,Student_0010,J0101,Student Applied,Excel,West,4,1,Applied,18.7,8.49,Yes
+E00530,2025-06-08 23:09:30.952,Company_038,Student_0005,J0098,Company Shortlisted,Data Analysis,Central,2,9,Shortlisted,39.2,6.42,Yes
+E00531,2025-06-09 06:22:14.224,Company_008,Student_0123,J0011,Company Posted,Power Bi,South,5,8,Applied,71.4,11.89,Yes
+E00532,2025-06-09 13:34:57.496,Company_065,Student_0074,J0105,Company Shortlisted,Marketing,Central,2,4,Applied,61.9,7.53,Yes
+E00533,2025-06-09 20:47:40.768,Company_017,Student_0097,J0184,Company Shortlisted,Data Analysis,Central,4,10,Applied,7.9,4.77,Yes
+E00534,2025-06-10 04:00:24.040,Company_071,Student_0118,J0067,Student Applied,Marketing,South,2,5,Applied,51.2,9.38,Yes
+E00535,2025-06-10 11:13:07.312,Company_045,Student_0038,J0123,Student Applied,Data Analysis,North,5,2,Applied,25.5,2.46,Yes
+E00536,2025-06-10 18:25:50.584,Company_004,Student_0141,J0220,Student Applied,Excel,West,3,9,Applied,1.5,4.92,Yes
+E00537,2025-06-11 01:38:33.856,Company_036,Student_0159,J0029,Company Posted,Power Bi,South,1,6,Pending,29.6,4.49,Yes
+E00538,2025-06-11 08:51:17.129,Company_070,Student_0047,J0137,Student Applied,Finance,East,5,3,Shortlisted,17.7,5.47,Yes
+E00539,2025-06-11 16:04:00.401,Company_031,Student_0228,J0195,Student Applied,Java,North,0,7,Shortlisted,59.1,9.49,Yes
+E00540,2025-06-11 23:16:43.673,Company_019,Student_0109,J0153,Company Posted,Tableau,East,4,9,Pending,25.0,6.07,No
+E00541,2025-06-12 06:29:26.945,Company_061,Student_0216,J0076,Student Applied,Power Bi,North,3,3,Pending,59.8,9.63,Yes
+E00542,2025-06-12 13:42:10.217,Company_054,Student_0180,J0170,Company Posted,Finance,West,0,2,Shortlisted,1.0,7.13,Yes
+E00543,2025-06-12 20:54:53.489,Company_039,Student_0184,J0009,Company Posted,Python,West,0,7,Rejected,22.9,4.43,Yes
+E00544,2025-06-13 04:07:36.761,Company_074,Student_0015,J0207,Company Posted,Data Analysis,Central,4,7,Applied,18.1,9.81,Yes
+E00545,2025-06-13 11:20:20.033,Company_019,Student_0157,J0040,Company Shortlisted,Python,East,3,4,Applied,17.6,3.24,Yes
+E00546,2025-06-13 18:33:03.306,Company_039,Student_0136,J0025,Student Applied,Finance,North,0,9,Applied,5.8,3.08,No
+E00547,2025-06-14 01:45:46.578,Company_067,Student_0005,J0005,Company Shortlisted,Power Bi,West,0,8,Rejected,14.3,6.3,Yes
+E00548,2025-06-14 08:58:29.850,Company_045,Student_0157,J0139,Student Applied,Data Analysis,South,3,1,Rejected,40.4,3.5,Yes
+E00549,2025-06-14 16:11:13.122,Company_013,Student_0047,J0187,Company Posted,Tableau,West,2,1,Applied,21.7,0.6,Yes
+E00550,2025-06-14 23:23:56.394,Company_058,Student_0068,J0216,Student Applied,Excel,South,0,5,Applied,30.6,7.96,Yes
+E00551,2025-06-15 06:36:39.666,Company_020,Student_0076,J0124,Student Applied,Data Analysis,North,1,6,Shortlisted,27.8,6.38,Yes
+E00552,2025-06-15 13:49:22.938,Company_072,Student_0173,J0207,Company Posted,Data Analysis,West,3,3,Applied,63.2,5.62,No
+E00553,2025-06-15 21:02:06.210,Company_061,Student_0130,J0038,Student Applied,Power Bi,West,0,9,Shortlisted,65.3,11.62,No
+E00554,2025-06-16 04:14:49.482,Company_039,Student_0155,J0072,Company Posted,Power Bi,North,4,10,Rejected,36.0,7.07,No
+E00555,2025-06-16 11:27:32.755,Company_001,Student_0095,J0133,Student Applied,Finance,West,5,6,Rejected,24.4,10.43,Yes
+E00556,2025-06-16 18:40:16.027,Company_003,Student_0115,J0176,Student Applied,Sql,South,1,4,Rejected,8.6,2.1,Yes
+E00557,2025-06-17 01:52:59.299,Company_077,Student_0243,J0090,Company Posted,Data Analysis,West,5,7,Pending,68.7,7.05,No
+E00558,2025-06-17 09:05:42.571,Company_062,Student_0164,J0146,Company Posted,Java,East,5,8,Shortlisted,5.3,10.48,No
+E00559,2025-06-17 16:18:25.843,Company_063,Student_0036,J0198,Company Shortlisted,Data Analysis,Central,0,9,Rejected,22.1,7.21,No
+E00560,2025-06-17 23:31:09.115,Company_025,Student_0026,J0037,Student Applied,Finance,South,1,6,Shortlisted,22.2,8.76,Yes
+E00561,2025-06-18 06:43:52.387,Company_056,Student_0043,J0060,Company Posted,Marketing,East,1,6,Applied,23.7,4.78,Yes
+E00562,2025-06-18 13:56:35.659,Company_033,Student_0027,J0176,Company Shortlisted,Python,North,2,8,Applied,12.7,1.56,No
+E00563,2025-06-18 21:09:18.932,Company_038,Student_0069,J0205,Company Posted,Excel,South,5,5,Applied,56.6,5.77,No
+E00564,2025-06-19 04:22:02.204,Company_006,Student_0148,J0028,Student Applied,Sql,Central,1,3,Shortlisted,9.7,5.04,Yes
+E00565,2025-06-19 11:34:45.476,Company_058,Student_0011,J0197,Company Shortlisted,Tableau,Central,2,3,Shortlisted,46.1,10.47,No
+E00566,2025-06-19 18:47:28.748,Company_044,Student_0074,J0205,Company Posted,Tableau,North,3,6,Rejected,9.8,3.31,Yes
+E00567,2025-06-20 02:00:12.020,Company_045,Student_0104,J0081,Company Posted,Tableau,North,2,2,Applied,6.0,11.62,Yes
+E00568,2025-06-20 09:12:55.292,Company_032,Student_0038,J0114,Company Posted,Power Bi,South,4,6,Applied,65.6,11.52,No
+E00569,2025-06-20 16:25:38.564,Company_045,Student_0134,J0040,Company Posted,Tableau,West,0,6,Pending,14.5,3.35,Yes
+E00570,2025-06-20 23:38:21.836,Company_061,Student_0200,J0045,Company Posted,Excel,North,3,8,Applied,59.3,4.5,Yes
+E00571,2025-06-21 06:51:05.109,Company_047,Student_0023,J0062,Student Applied,Python,West,3,7,Shortlisted,39.7,10.8,Yes
+E00572,2025-06-21 14:03:48.381,Company_021,Student_0047,J0093,Company Posted,Tableau,East,4,8,Shortlisted,6.5,11.62,No
+E00573,2025-06-21 21:16:31.653,Company_080,Student_0090,J0115,Student Applied,Data Analysis,Central,2,9,Shortlisted,68.8,5.6,Yes
+E00574,2025-06-22 04:29:14.925,Company_075,Student_0046,J0186,Company Shortlisted,Data Analysis,West,0,6,Applied,18.5,4.19,Yes
+E00575,2025-06-22 11:41:58.197,Company_036,Student_0107,J0067,Company Shortlisted,Power Bi,Central,2,3,Applied,62.0,6.55,Yes
+E00576,2025-06-22 18:54:41.469,Company_019,Student_0140,J0056,Student Applied,Excel,West,1,10,Applied,13.0,8.41,Yes
+E00577,2025-06-23 02:07:24.741,Company_020,Student_0218,J0040,Company Posted,Python,East,2,3,Shortlisted,61.6,3.64,No
+E00578,2025-06-23 09:20:08.013,Company_057,Student_0141,J0098,Student Applied,Sql,North,3,1,Shortlisted,1.9,8.97,Yes
+E00579,2025-06-23 16:32:51.285,Company_018,Student_0104,J0040,Student Applied,Finance,East,0,5,Applied,37.3,1.09,Yes
+E00580,2025-06-23 23:45:34.558,Company_047,Student_0190,J0091,Student Applied,Python,North,2,4,Shortlisted,55.6,1.07,No
+E00581,2025-06-24 06:58:17.830,Company_049,Student_0210,J0205,Company Posted,Finance,North,0,9,Rejected,67.4,4.94,Yes
+E00582,2025-06-24 14:11:01.102,Company_014,Student_0217,J0033,Company Shortlisted,Marketing,Central,0,9,Applied,65.6,4.56,Yes
+E00583,2025-06-24 21:23:44.374,Company_015,Student_0225,J0006,Student Applied,Unknown,East,1,5,Shortlisted,59.2,4.13,No
+E00584,2025-06-25 04:36:27.646,Company_031,Student_0111,J0216,Company Posted,Java,West,1,10,Rejected,64.1,6.15,Yes
+E00585,2025-06-25 11:49:10.918,Company_001,Student_0104,J0147,Student Applied,Data Analysis,East,3,4,Applied,15.1,4.19,Yes
+E00586,2025-06-25 19:01:54.190,Company_054,Student_0060,J0080,Student Applied,Excel,Central,4,7,Applied,21.2,2.71,No
+E00587,2025-06-26 02:14:37.462,Company_003,Student_0171,J0168,Company Shortlisted,Power Bi,North,0,6,Shortlisted,21.5,4.06,No
+E00588,2025-06-26 09:27:20.735,Company_016,Student_0204,J0092,Student Applied,Java,Central,4,4,Pending,27.8,11.71,No
+E00589,2025-06-26 16:40:04.007,Company_057,Student_0236,J0097,Student Applied,Finance,South,3,10,Rejected,28.9,5.23,No
+E00590,2025-06-26 23:52:47.279,Company_075,Student_0100,J0059,Company Posted,Tableau,South,0,2,Shortlisted,39.7,5.61,No
+E00591,2025-06-27 07:05:30.551,Company_012,Student_0240,J0059,Student Applied,Excel,West,0,1,Rejected,12.4,7.13,Yes
+E00592,2025-06-27 14:18:13.823,Company_074,Student_0068,J0048,Student Applied,Java,Central,5,4,Applied,50.1,11.81,Yes
+E00593,2025-06-27 21:30:57.095,Company_016,Student_0133,J0169,Company Posted,Power Bi,West,4,4,Shortlisted,12.9,3.28,Yes
+E00594,2025-06-28 04:43:40.367,Company_072,Student_0120,J0013,Company Posted,Data Analysis,West,2,1,Shortlisted,23.0,8.33,No
+E00595,2025-06-28 11:56:23.639,Company_076,Student_0037,J0107,Student Applied,Excel,South,1,6,Applied,36.7,8.73,Yes
+E00596,2025-06-28 19:09:06.912,Company_024,Student_0072,J0045,Company Posted,Power Bi,West,2,4,Rejected,57.5,7.48,Yes
+E00597,2025-06-29 02:21:50.184,Company_028,Student_0127,J0089,Student Applied,Marketing,South,4,1,Shortlisted,53.5,1.52,Yes
+E00598,2025-06-29 09:34:33.456,Company_008,Student_0106,J0181,Company Posted,Marketing,North,1,1,Applied,46.8,8.28,Yes
+E00599,2025-06-29 16:47:16.728,Company_036,Student_0241,J0170,Company Posted,Power Bi,Central,2,1,Pending,12.1,1.24,Yes
+E00600,2025-06-30 00:00:00.000,Company_008,Student_0092,J0100,Company Posted,Java,West,5,8,Applied,39.8,7.36,No
